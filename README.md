@@ -4,7 +4,7 @@
 The objective of this Coffee Sales Dashboard project is to analyze coffee sales data from multiple sources and present comprehensive insights using Microsoft Excel. This includes examining sales trends over time, customer behavior patterns, product performance by roast type and size, geographical distribution of sales, and loyalty program effectiveness. The dashboard provides a unified visual summary to support strategic business decisions for coffee retail operations.
 
 ## Dataset used
-- <a href="https://github.com/aditya-kumaarr/Excel_CoffeeSales_P2/blob/main/raw_coffeeOrdersData.xlsx">Dataset</a>
+- <a href="https://github.com/aditya-kumaarr/Excel_CoffeeSales_P2/blob/main/assets/raw_coffeeOrdersData.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Total Sales Trends Over Time:
@@ -20,7 +20,7 @@ Evaluate customer preferences for different coffee package sizes.
 - Loyalty Card Impact:
 Assess the effectiveness of the loyalty program on customer purchases.
 
-- Dashboard Interaction <a href="https://github.com/aditya-kumaarr/Excel_Retail_Sales_p1/blob/main/assets/dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/aditya-kumaarr/Excel_CoffeeSales_P2/blob/main/coffeeOrdersData.xlsx">View Dashboard</a>
 
 ## Process
 - Created a backup copy of the raw file to ensure data recovery options in case of issues.
